@@ -58,5 +58,5 @@ Return the number (count) of vowels in the given string. We will consider a, e, 
 > ### Languages
 > Ukrainian/Russian - Native
 > English - Upper-Intermediate
-> ![score english](https://github.com/LettaVio/rsschool-cv/blob/gh-pages/imgs/eng.ipg)
+> ![score english](https://github.com/LettaVio/rsschool-cv/blob/gh-pages/imgs/eng.jpg)
 > Deutsch – Elementary
