@@ -49,3 +49,14 @@ Return the number (count) of vowels in the given string. We will consider a, e, 
 >  `}`    
 >  `return vowelsCount;`
 >`}`
+
+### Educations and Certifications
+- Kamianets-Podіlskyi Ivan Ohiienko national university, Master's degree, Computer science 
+- [Front-End Web UI Frameworks and Tools: Bootstrap 4](https://www.coursera.org/account/accomplishments/certificate/LJ4EWUCK3BVS) The Hong Kong University of Science and Technology
+- Certificate of completing the ["Fundamentals of Software Testing"](https://clients.qatestlab.com/api/trainings/public_certificate_173397_14396.pdf) course from QATestLab
+
+> ### Languages
+> Ukrainian/Russian - Native
+> English - Upper-Intermediate
+> ![score english](https://github.com/LettaVio/rsschool-cv/blob/gh-pages/imgs/eng.ipg)
+> Deutsch – Elementary
