@@ -1,4 +1,4 @@
-![photo profile](/rsschool-cv/imgs/Gryshchuk_1.png)
+![photo profile](https://github.com/LettaVio/rsschool-cv/blob/gh-pages/imgs/Gryshchuk_1.png)
 #  Violetta Hryshchuk 
 
 > ### Contact info
