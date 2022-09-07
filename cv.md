@@ -56,7 +56,7 @@ Return the number (count) of vowels in the given string. We will consider a, e, 
 - Certificate of completing the ["Fundamentals of Software Testing"](https://clients.qatestlab.com/api/trainings/public_certificate_173397_14396.pdf) course from QATestLab
 
 > ### Languages
-> Ukrainian/Russian - Native
-> English - Upper-Intermediate
+>- Ukrainian/Russian - Native
+>- English - Upper-Intermediate
 > ![score english](https://github.com/LettaVio/rsschool-cv/blob/gh-pages/imgs/eng.jpg)
-> Deutsch – Elementary
+>- Deutsch – Elementary
