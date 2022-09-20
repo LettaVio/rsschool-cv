@@ -1,0 +1,33 @@
+html {
+    font-family: "Open Sans", Arial, sans-serif;
+}
+
+.cvblock {
+    background-color: rgb(252, 242, 230);
+    padding: 10px;
+}
+
+.cvheader,
+.git cvfooter {
+    margin: 0 auto;
+    text-align: center;
+    color: blueviolet;
+}
+
+.cvheader img {
+    border-radius: 50%;
+}
+
+.hline {
+    background-color: lavender;
+    padding-left: 30px;
+
+}
+
+.exp-name>p:first-child {
+    text-decoration: underline;
+}
+
+.exp-name>i {
+    margin-left: 40px;
+}
