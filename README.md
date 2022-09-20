@@ -1,1 +1,1 @@
-https://LettaVio.github.io/rsschool-cv/cv
+https://LettaVio.github.io/rsschool-cv/
